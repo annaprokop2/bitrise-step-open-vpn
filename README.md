@@ -89,5 +89,3 @@ You can share your Step or step version with the [bitrise CLI](https://github.co
    of your step!)
 1. Then run: `bitrise run share-this-step` to share the step (version) you specified in the `envs`
 1. Send the Pull Request, as described in the logs of `bitrise run share-this-step`
-
-That's all ;)
